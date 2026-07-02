@@ -39,8 +39,10 @@ Overall, the Personal Portfolio Website is an important project that reflects cr
 
 ## OUTPUTS:
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/29595aad-a9f2-4173-b489-b292ae694ed8" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e700ba56-b535-4842-9a40-c2041d1ef9a8" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1978ff45-f507-4ecc-8e4e-292c88d6d1d9" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/25b3827c-ab57-44d0-a418-ea1d3dfee914" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d1df2196-3cff-43f3-997d-443b892f1166" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5b4a1c51-a048-4237-b0a9-a4be9236bde9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7d95abeb-3a97-45be-9625-77bd5a4d5a29" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d6ced3b5-a6a8-4be4-a1b1-477477b0df8c" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/459bf9fb-3b09-4347-b9c2-2f3dfd06aec4" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/43cda22f-0d2d-4b24-aacc-83dfde0044a6" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d0abd61-392d-4853-b417-337b39fe3023" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac99f353-7e8d-4d5f-880a-007478a476f5" />
